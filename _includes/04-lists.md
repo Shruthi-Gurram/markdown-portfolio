@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Book
+* Pen
+* Pencil
+* Eraser
+* Sharpner
+ * Decorated
+ * Normal
